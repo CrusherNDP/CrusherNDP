@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hi the names **CrusherNotDrip** 👋
 
-<!--
-**CrusherNDP/CrusherNDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Possibly Helpful Information about me:
+### 🚹 Gender 🚺
+* Male
+### 👨 Pronouns 👩
+* he/him
+* they/them
+### 💬 Socials 💬
+* Discord: crushernotdrip
+* Discord Server: https://discord.gg/3JGWVRWUEJ
+* Twitter: [@CrusherNotDrip](https://twitter.com/CrusherNotDrip/)
+### 🌈 Sexuality 🌈
+* Straight
+### 🤔 What do I do? 🤔
+* I program
+* I game (stuff like cod and roblox and whatever)
+* I pull all-nighters sometimes because yes (pls save me)
 
-Here are some ideas to get you started:
+## Projects I'm working on:
+### 🎮 Games 🎮
+* Lucid Nightmares (kinda dead dont have high hopes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎤 FNF Mods 🎤
+* VS Guest 666 (Owner)
+* Respect Funkin'
+* VS Paint
+* VS Bob Expanded
+* Leaq7
